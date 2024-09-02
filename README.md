@@ -3,8 +3,6 @@
 ## This Resume Project Challenge (Round - 12) was organised by codebasics
 
 
-### In this project, I am delighted to submit my entry for the 12th Round of the Resume Project Challenge hosted by Codebasics. 
-
 ☸ SUMMARY ☸
 
 - This exciting contest has provided a unique opportunity to delve into and analyze Electric Vehicle data from the Government of India's Vahan Sewa platform.
