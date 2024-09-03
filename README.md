@@ -1,7 +1,5 @@
 # Electric-Vehicle-Market-Insights
 
-## This Resume Project Challenge (Round - 12) was organised by codebasics
-
 
 ☸ SUMMARY ☸
 
